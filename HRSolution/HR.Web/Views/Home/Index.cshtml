@@ -1,0 +1,36 @@
+﻿@model HR.Web.ViewModels.EmployeeListViewModel
+
+@{
+    ViewData["Title"] = "Home";
+}
+
+    <div>
+        <h3>Welcome ASP.NET MVC Core 2.2 With PostgreSQL</h3>
+
+        <h5>Employee Informations</h5>
+        <a class="btn btn-success" href="/home/add">Add New Employee</a>
+        <hr />
+        <table class="table table-bordered table-hover">
+            <thead>
+                <tr>
+                    <th>Employee Code</th>
+                    <th>Employee Name</th>
+                    <th>Email</th>
+                    <th>Cellphone</th>
+                    <th>Address</th>
+                    <th>Action</th>
+                </tr>
+                @foreach (var item in Model.Employees)
+                {
+            <tr>
+                <td>@item.EmployeeCode</td>
+                <td>@item.FullName</td>
+                <td>@item.Email</td>
+                <td>@item.Cellphone</td>
+                <td>@item.Address</td>
+                <td><a href="/home/remove/@item.id"> Remove</a></td>
+            </tr>
+                }
+            </thead>
+        </table>
+    </div>

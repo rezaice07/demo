@@ -1,0 +1,60 @@
+C:\Users\Aminul\source\repos\HRSolution\HR.Web\bin\Debug\netcoreapp2.2\HR.Web.deps.json
+C:\Users\Aminul\source\repos\HRSolution\HR.Web\bin\Debug\netcoreapp2.2\HR.Web.runtimeconfig.json
+C:\Users\Aminul\source\repos\HRSolution\HR.Web\bin\Debug\netcoreapp2.2\HR.Web.runtimeconfig.dev.json
+C:\Users\Aminul\source\repos\HRSolution\HR.Web\bin\Debug\netcoreapp2.2\HR.Web.dll
+C:\Users\Aminul\source\repos\HRSolution\HR.Web\obj\Debug\netcoreapp2.2\HR.Web.csproj.CoreCompileInputs.cache
+C:\Users\Aminul\source\repos\HRSolution\HR.Web\obj\Debug\netcoreapp2.2\HR.Web.RazorAssemblyInfo.cache
+C:\Users\Aminul\source\repos\HRSolution\HR.Web\obj\Debug\netcoreapp2.2\HR.Web.RazorAssemblyInfo.cs
+C:\Users\Aminul\source\repos\HRSolution\HR.Web\obj\Debug\netcoreapp2.2\HR.Web.AssemblyInfoInputs.cache
+C:\Users\Aminul\source\repos\HRSolution\HR.Web\obj\Debug\netcoreapp2.2\HR.Web.AssemblyInfo.cs
+C:\Users\Aminul\source\repos\HRSolution\HR.Web\obj\Debug\netcoreapp2.2\HR.Web.TagHelpers.input.cache
+C:\Users\Aminul\source\repos\HRSolution\HR.Web\obj\Debug\netcoreapp2.2\HR.Web.TagHelpers.output.cache
+C:\Users\Aminul\source\repos\HRSolution\HR.Web\obj\Debug\netcoreapp2.2\HR.Web.RazorCoreGenerate.cache
+C:\Users\Aminul\source\repos\HRSolution\HR.Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Aminul\source\repos\HRSolution\HR.Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Aminul\source\repos\HRSolution\HR.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Aminul\source\repos\HRSolution\HR.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Aminul\source\repos\HRSolution\HR.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Aminul\source\repos\HRSolution\HR.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Aminul\source\repos\HRSolution\HR.Web\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Aminul\source\repos\HRSolution\HR.Web\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Aminul\source\repos\HRSolution\HR.Web\obj\Debug\netcoreapp2.2\HR.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Aminul\source\repos\HRSolution\HR.Web\obj\Debug\netcoreapp2.2\HR.Web.RazorTargetAssemblyInfo.cs
+C:\Users\Aminul\source\repos\HRSolution\HR.Web\bin\Debug\netcoreapp2.2\HR.Web.pdb
+C:\Users\Aminul\source\repos\HRSolution\HR.Web\bin\Debug\netcoreapp2.2\HR.Web.Views.dll
+C:\Users\Aminul\source\repos\HRSolution\HR.Web\bin\Debug\netcoreapp2.2\HR.Web.Views.pdb
+C:\Users\Aminul\source\repos\HRSolution\HR.Web\obj\Debug\netcoreapp2.2\HR.Web.Views.pdb
+C:\Users\Aminul\source\repos\HRSolution\HR.Web\obj\Debug\netcoreapp2.2\HR.Web.dll
+C:\Users\Aminul\source\repos\HRSolution\HR.Web\obj\Debug\netcoreapp2.2\HR.Web.pdb
+C:\Users\Aminul\source\repos\HRSolution\HR.Web\obj\Debug\netcoreapp2.2\HR.Web.csproj.CopyComplete
+D:\Reza Project\Postgres\Project\HRSolution\HR.Web\bin\Debug\netcoreapp2.2\HR.Web.deps.json
+D:\Reza Project\Postgres\Project\HRSolution\HR.Web\bin\Debug\netcoreapp2.2\HR.Web.runtimeconfig.json
+D:\Reza Project\Postgres\Project\HRSolution\HR.Web\bin\Debug\netcoreapp2.2\HR.Web.runtimeconfig.dev.json
+D:\Reza Project\Postgres\Project\HRSolution\HR.Web\bin\Debug\netcoreapp2.2\HR.Web.dll
+D:\Reza Project\Postgres\Project\HRSolution\HR.Web\bin\Debug\netcoreapp2.2\HR.Web.pdb
+D:\Reza Project\Postgres\Project\HRSolution\HR.Web\bin\Debug\netcoreapp2.2\HR.Web.Views.dll
+D:\Reza Project\Postgres\Project\HRSolution\HR.Web\bin\Debug\netcoreapp2.2\HR.Web.Views.pdb
+D:\Reza Project\Postgres\Project\HRSolution\HR.Web\obj\Debug\netcoreapp2.2\HR.Web.csprojAssemblyReference.cache
+D:\Reza Project\Postgres\Project\HRSolution\HR.Web\obj\Debug\netcoreapp2.2\HR.Web.csproj.CoreCompileInputs.cache
+D:\Reza Project\Postgres\Project\HRSolution\HR.Web\obj\Debug\netcoreapp2.2\HR.Web.RazorAssemblyInfo.cache
+D:\Reza Project\Postgres\Project\HRSolution\HR.Web\obj\Debug\netcoreapp2.2\HR.Web.RazorAssemblyInfo.cs
+D:\Reza Project\Postgres\Project\HRSolution\HR.Web\obj\Debug\netcoreapp2.2\HR.Web.AssemblyInfoInputs.cache
+D:\Reza Project\Postgres\Project\HRSolution\HR.Web\obj\Debug\netcoreapp2.2\HR.Web.AssemblyInfo.cs
+D:\Reza Project\Postgres\Project\HRSolution\HR.Web\obj\Debug\netcoreapp2.2\HR.Web.TagHelpers.input.cache
+D:\Reza Project\Postgres\Project\HRSolution\HR.Web\obj\Debug\netcoreapp2.2\HR.Web.TagHelpers.output.cache
+D:\Reza Project\Postgres\Project\HRSolution\HR.Web\obj\Debug\netcoreapp2.2\HR.Web.RazorCoreGenerate.cache
+D:\Reza Project\Postgres\Project\HRSolution\HR.Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\Reza Project\Postgres\Project\HRSolution\HR.Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Reza Project\Postgres\Project\HRSolution\HR.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Reza Project\Postgres\Project\HRSolution\HR.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Reza Project\Postgres\Project\HRSolution\HR.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Reza Project\Postgres\Project\HRSolution\HR.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Reza Project\Postgres\Project\HRSolution\HR.Web\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Reza Project\Postgres\Project\HRSolution\HR.Web\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Reza Project\Postgres\Project\HRSolution\HR.Web\obj\Debug\netcoreapp2.2\HR.Web.RazorTargetAssemblyInfo.cache
+D:\Reza Project\Postgres\Project\HRSolution\HR.Web\obj\Debug\netcoreapp2.2\HR.Web.RazorTargetAssemblyInfo.cs
+D:\Reza Project\Postgres\Project\HRSolution\HR.Web\obj\Debug\netcoreapp2.2\HR.Web.Views.pdb
+D:\Reza Project\Postgres\Project\HRSolution\HR.Web\obj\Debug\netcoreapp2.2\HR.Web.dll
+D:\Reza Project\Postgres\Project\HRSolution\HR.Web\obj\Debug\netcoreapp2.2\HR.Web.pdb
+D:\Reza Project\Postgres\Project\HRSolution\HR.Web\obj\Debug\netcoreapp2.2\HR.Web.csproj.CopyComplete
+D:\Reza Project\Postgres\Project\HRSolution\HR.Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Add.g.cshtml.cs

@@ -1,0 +1,6 @@
+D:\Reza Project\Postgres\Project\ConsoleApp\DvdRental.Model\bin\Debug\DvdRental.Model.dll
+D:\Reza Project\Postgres\Project\ConsoleApp\DvdRental.Model\bin\Debug\DvdRental.Model.pdb
+D:\Reza Project\Postgres\Project\ConsoleApp\DvdRental.Model\obj\Debug\DvdRental.Model.csproj.CoreCompileInputs.cache
+D:\Reza Project\Postgres\Project\ConsoleApp\DvdRental.Model\obj\Debug\DvdRental.Model.dll
+D:\Reza Project\Postgres\Project\ConsoleApp\DvdRental.Model\obj\Debug\DvdRental.Model.pdb
+D:\Reza Project\Postgres\Project\ConsoleApp\DvdRental.Model\obj\Debug\DvdRental.Model.csprojAssemblyReference.cache
